@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# React
+node_modules/
+dist/
+
+# Environment
+.env
